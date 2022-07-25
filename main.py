@@ -1,4 +1,4 @@
-# importing the module
+# pip install pytube
 from pytube import YouTube
 
 # where to save
